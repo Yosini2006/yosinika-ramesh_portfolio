@@ -2,7 +2,7 @@
 
 Personal portfolio website of Yosinika Ramesh, a 3rd Year Computer Science student at Kingston Engineering College, Vellore.
 
-🌐 **Live Site:** [Click here to view portfolio](https://yosini2006.github.io/Portfolio)
+🌐 **Live Site:** [Click here to view portfolio][(https://yosini2006.github.io/Portfolio)](https://github.com/Yosini2006/yosinika-ramesh_portfolio)
 
 ---
 
