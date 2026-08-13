@@ -35,7 +35,6 @@ Personal portfolio website of Yosinika Ramesh, a 3rd Year Computer Science stude
 
 ## 💼 Internships
 
-- 🔹 Front-End AI Engineering Intern — Fly Rank AI, Remote (Jul 2026 – Present)
 - 🔹 Website Developer Intern — InAmigos Foundation, Remote (Jun 2026)
 - 🔹 Web Development Intern — CodeBind Technologies, Chennai (Dec 2025)
 
